@@ -54,7 +54,7 @@
     <!-- nav section end -->
 <section class="bg_img">
     <div class="container">
-      <div class="row align-items-center min-vh-100">
+      <div class="row align-items-center text-center text-md-left min-vh-100">
         <div class="">
           <h1 id="myName" class="my-0 head-size">FLAGSHIP</h1>
           <a class="btn myColor text-white" href="#register-here">Register</a> 
