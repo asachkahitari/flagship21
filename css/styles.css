@@ -1,0 +1,75 @@
+.head-size{
+    font-weight: 800;
+    /* font-size: 5vw; */
+}
+hr {
+    margin: 1rem 0;
+    color: #4060B5;
+    background-color: #4060B5;
+    border: 0;
+    opacity: 1;
+    width: 20%;
+  }
+.border-danger{
+    color: #4060B5;
+    background-color: #4060B5
+}
+.para-font p{
+    font-size:0.9rem;
+}
+@media (min-width: 768px) {  
+    .para-font p{font-size:0.9rem;} /*1rem = 16px*/
+  }
+   
+  /* Large devices (desktops, 992px and up) */
+  @media (min-width: 992px) { 
+    .para-font p{font-size:1.1rem;} /*1rem = 16px*/
+  }
+   
+  /* Extra large devices (large desktops, 1200px and up) */
+  @media (min-width: 1200px) {  
+    .para-font p{font-size:1.2rem;} /*1rem = 16px*/    
+  }
+
+
+.speaker-font {
+    font-size:1.3rem;
+}
+@media (min-width: 768px) {  
+    .speaker-font {font-size:1.5rem;} /*1rem = 16px*/
+  }
+   
+  /* Large devices (desktops, 992px and up) */
+  @media (min-width: 992px) { 
+    .speaker-font {font-size:1.8rem;} /*1rem = 16px*/
+  }
+   
+  /* Extra large devices (large desktops, 1200px and up) */
+  @media (min-width: 1200px) {  
+    .speaker-font {font-size:2rem;} /*1rem = 16px*/    
+  }
+.myColor{
+    background-color: #FE6324;
+}
+#myName{
+    /* font-size:58px; */
+    font-family: 'Neuton', serif;
+    font-weight:600;
+}
+
+.bg_img{
+    background: url('../img/website\ image\ flagship.jpg') no-repeat ;
+    background-size: cover;
+    /* width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0; */
+}
+.para{
+    font-size: 1.2em;
+    
+}
+
+#hex-guests .col-md-6 img{
+    width:60% !important;
+  }

@@ -1,14 +1,19 @@
 
-section{
+/* for setting color to logo(text) */
+body{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+
+.register-box{
     background-color: #4060B5;
     /* background-image: url('../img/background5-01.jpg');
     background-size: cover; */
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 400;
     color: white;
 }
-.container{
-  width: 70%;
+.register{
+  width: 60%;
+  
 }
 .form-heading h2{
     font-family: 'Montserrat', sans-serif;

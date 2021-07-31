@@ -23,7 +23,7 @@
         <div class="text-center pt-4 form-heading">
             <h2>Register Now!</h2>
         </div>
-        <div class="container  pb-5">
+        <div class="container register pb-5">
             <div class="row  mt-5">
                 <form method="post" action="store_details.php">
                     <!-- <div class="row"> -->
